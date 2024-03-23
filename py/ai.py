@@ -3,7 +3,7 @@ import openai
 
 # OpenAI Config
 openai.api_key = "<your_api_key>"
-openai.api_base = "https://polite-ground-030dc3103.4.azurestaticapps.net/api/v1"
+openai.api_base = "<change on what you use>"
 openai.api_type = 'azure'
 openai.api_version = '2023-05-15'
 deployment_name='gpt-35-hackathon' 
